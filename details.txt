@@ -1,0 +1,5 @@
+Admin::12345::admin@gmail.com::
+Cashier1::12345::cashier1@gmail.com::
+Cashier2::12345::cashier2@gmail.com::
+Cashier3::12345::cashier3@gmail.com::
+Cashier4::12345::cashier4@gmail.com::
